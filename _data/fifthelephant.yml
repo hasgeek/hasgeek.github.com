@@ -1,0 +1,17 @@
+livestream_url: "https://fifthelephant.in/live/"
+discussion_slack_web: "https://friendsofhasgeek.slack.com/messages/fifthel/"
+discussion_slack_deeplink: "slack://channel?team=T04TX4KJG&id=C04UJUR91"
+venue_map_url: "https://fifthelephant.in/images/extras/mlr-whitefield-venue-map.png"
+announcements:
+- title: "Code of Conduct"
+  description: "All attendees – participants, speakers, exhibitors and organisers – at The Fifth Elephant 2017 are required to adhere to this.\nTap to view."
+  url: "https://fifthelephant.in/code-of-conduct"
+
+foodcourt_vendors:
+- title: "Chefkraft"
+  sections:
+  - title: "Thursday - Lunch (11AM - 3:30PM)"
+    items:
+    - title: "Peri peri chicken with sautéed vegetables"
+      type: "Veg"
+      price: "250"
