@@ -27,7 +27,7 @@ listed below.
 
 ### Common HasGeek Libraries
 * __Baseframe__: Reusable styles and templates for HasGeek projects.<br/>[Repo](https://github.com/hasgeek/baseframe) · [Wiki](http://github.com/hasgeek/baseframe/wiki)
-* __Eventframe__:Event frame provides functionality common across HasGeek events, to simplify the process of setting up per-event websites.<br/>[Repo](https://github.com/hasgeek/evenframe) · [Wiki](http://github.com/hasgeek/eventframe/wiki)
+* __Eventframe__:Event frame provides functionality common across HasGeek events, to simplify the process of setting up per-event websites.<br/>[Repo](https://github.com/hasgeek/eventframe) · [Wiki](http://github.com/hasgeek/eventframe/wiki)
 * __Coaster__: Contains functions and db models for recurring patterns in Flask apps.<br/>[Repo](https://github.com/hasgeek/coaster) · [Wiki](http://github.com/hasgeek/coaster/wiki)
 * __Lastuser__: User management in one place.<br/>[Repo](https://github.com/hasgeek/lastuser) · [Wiki](http://github.com/hasgeek/lastuser/wiki)
 * __flask-lastuser__: Flask extension for LastUser.<br/>[Repo](https://github.com/hasgeek/flask-lastuser) · [Wiki](http://github.com/hasgeek/flask-lastuser/wiki)
