@@ -1,0 +1,7 @@
+livestream_url: "https://fragments.in/live/"
+discussion_slack_web: "https://friendsofhasgeek.slack.com/messages/fragments/"
+discussion_slack_deeplink: "slack://channel?team=T04TX4KJG&id=C04UJUR91"
+announcements:
+- title: "Code of Conduct"
+  description: "All attendees – participants, speakers, exhibitors and organisers – at Fragments 2017 are required to adhere to this.\nTap to view."
+  url: "https://fragments.in/code-of-conduct"
