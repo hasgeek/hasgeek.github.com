@@ -1,0 +1,13 @@
+livestream_url: "https://jsfoo.in/live/"
+discussion_slack_web: "https://friendsofhasgeek.slack.com/messages/jsfoo/"
+discussion_slack_deeplink: "slack://channel?team=T04TX4KJG&id=C04UJUR91"
+announcements:
+- title: "View the unconference schedule"
+  description: "Find out what's happening in the activities area (Open from 9 am - 5pm today and tomorrow).\nTap to view."
+  url: "https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRG7QNTVxAUrPbgZJClxlkymzOIa_3BhCM65W2ZGiVYnc4R0X01ab3zrII4N-9PAaHtUc-mzwxnd-_J/pubhtml"
+- title: "Use the unconference space"
+  description: "Fill in the form to reserve a space. Activities area is open from 9 am - 5pm today and tommorrow. Unscheduled timeslots are open for all to use.\nTap to view."
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfOoEmeRirUq4jIA17tfJcvUDVi2FegCNm-MPkLqDvxIpLIjw/viewform"
+- title: "Code of Conduct"
+  description: "All attendees – participants, speakers, exhibitors and organisers – at JSFoo 2017 are required to adhere to this.\nTap to view."
+  url: "https://jsfoo.in/code-of-conduct"
