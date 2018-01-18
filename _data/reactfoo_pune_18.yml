@@ -2,5 +2,5 @@ discussion_slack_web: "https://friendsofhasgeek.slack.com/messages/reactfoo/"
 discussion_slack_deeplink: "slack://channel?team=T04TX4KJG&id=C6N4Y6B9P"
 announcements:
 - title: "Code of Conduct"
-  description: "All attendees – participants, speakers, exhibitors and organisers – at Fragments 2017 are required to adhere to this.\nTap to view."
+  description: "All attendees – participants, speakers, exhibitors and organisers – at ReactFoo Pune 2018 are required to adhere to this.\nTap to view."
   url: "https://reactfoo.in/code-of-conduct"
