@@ -1,0 +1,6 @@
+discussion_slack_web: "https://friendsofhasgeek.slack.com/messages/50p/"
+discussion_slack_deeplink: "slack://channel?team=T04TX4KJG&id=C23U8UR39"
+announcements:
+- title: "Code of Conduct"
+  description: "All attendees – participants, speakers, exhibitors and organisers – at 50p 2018 are required to adhere to this.\nTap to view."
+  url: "https://50p.in/code-of-conduct"
